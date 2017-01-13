@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
-<?xml-stylesheet ekr_test ?>
 <leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
 <leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
 <globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
@@ -147,7 +146,7 @@
 <v t="leo.20161115002353.1"><vh>md 檔案範例</vh></v>
 <v t="leo.20161115002403.1" a="E"><vh>@path ./../content</vh>
 <v t="leo.20161115002403.2" a="E"><vh>yen 所寫的網誌文章</vh>
-<v t="leo.20161115002403.3"><vh>201609</vh>
+<v t="leo.20161115002403.3" a="E"><vh>201609</vh>
 <v t="leo.20161115002403.4"><vh>@edit 20160916.md</vh></v>
 <v t="leo.20161115002403.5"><vh>@edit 20160923.md</vh></v>
 <v t="leo.20161115002403.6"><vh>@edit 20160930.md</vh></v>
@@ -157,6 +156,7 @@
 <v t="leo.20161115002403.10"><vh>@edit 20161028.md</vh></v>
 <v t="leo.20161115002403.11"><vh>@edit 20161104.md</vh></v>
 <v t="leo.20161115002403.12"><vh>@edit 20161111.md</vh></v>
+<v t="leo.20170113100811.1"><vh>@edit 20170113.md</vh></v>
 </v>
 </v>
 </v>
