@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423249課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2017-01-13T10:00:00+08:00</updated><entry><title>2016Fall 電腦輔助設計實習課程總結</title><link href="./2016fall-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html" rel="alternate"></link><published>2017-01-13T10:00:00+08:00</published><updated>2017-01-13T10:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2017-01-13:./2016fall-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html</id><summary type="html">&lt;ol&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423249課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2017-01-13T10:00:00+08:00</updated><entry><title>2016Fall 電腦輔助設計實習課程總結</title><link href="./2016fall-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html" rel="alternate"></link><updated>2017-01-13T10:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2017-01-13:./2016fall-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html</id><summary type="html">&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;創造力三元素
 自學能力 - 根據特定主題, 自我學習能力
@@ -57,11 +57,243 @@ Nutcracker 零組件範例&lt;/p&gt;
 &lt;li&gt;
 &lt;p&gt;Github submodule 網際協同 (納入協同產品設計實習課程範圍)&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ol&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第九週</title><link href="./di-jiu-zhou.html" rel="alternate"></link><published>2016-11-11T22:00:00+08:00</published><updated>2016-11-11T22:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2016-11-11:./di-jiu-zhou.html</id><summary type="html">&lt;p&gt;期中考週&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第八週</title><link href="./di-ba-zhou.html" rel="alternate"></link><published>2016-11-04T22:00:00+08:00</published><updated>2016-11-04T22:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2016-11-04:./di-ba-zhou.html</id><summary type="html">&lt;p&gt;使用Trace Point計算路徑&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第七週</title><link href="./di-qi-zhou.html" rel="alternate"></link><published>2016-10-28T22:00:00+08:00</published><updated>2016-10-28T22:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2016-10-28:./di-qi-zhou.html</id><summary type="html">&lt;p&gt;使用Trace Point計算路徑&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第六週</title><link href="./di-liu-zhou.html" rel="alternate"></link><published>2016-10-21T22:00:00+08:00</published><updated>2016-10-21T22:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2016-10-21:./di-liu-zhou.html</id><summary type="html">&lt;p&gt;感覺還不錯&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第五週</title><link href="./di-wu-zhou.html" rel="alternate"></link><published>2016-10-14T22:00:00+08:00</published><updated>2016-10-14T22:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2016-10-14:./di-wu-zhou.html</id><summary type="html">&lt;p&gt;##認識SolveSpace&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第四週</title><link href="./di-si-zhou.html" rel="alternate"></link><published>2016-10-07T22:00:00+08:00</published><updated>2016-10-07T22:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2016-10-07:./di-si-zhou.html</id><summary type="html">&lt;p&gt;1: 設定使用者資料&lt;/p&gt;
-&lt;p&gt;2: 組長用2016fallcadp_bg11的名稱建立小組倉儲並邀組員進入小組倉儲&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第三週</title><link href="./di-san-zhou.html" rel="alternate"></link><published>2016-09-30T22:00:00+08:00</published><updated>2016-09-30T22:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2016-09-30:./di-san-zhou.html</id><summary type="html">&lt;p&gt;1:複製網誌和簡報的設定檔2016fallcadp_hw的倉儲&lt;/p&gt;
-&lt;p&gt;2:更改2016fallcadp_hw的README.md檔案&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第二週</title><link href="./di-er-zhou.html" rel="alternate"></link><published>2016-09-23T22:00:00+08:00</published><updated>2016-09-23T22:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2016-09-23:./di-er-zhou.html</id><summary type="html">&lt;p&gt;1: 建立"學號.github.io"名稱的倉儲&lt;/p&gt;
+&lt;/ol&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 17</title><link href="./week-17.html" rel="alternate"></link><updated>2017-01-06T22:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2017-01-06:./week-17.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+
+
+&lt;p&gt;Solvespace&lt;p&gt;
+
+&lt;img src="../data/image/W17-1.png" width="800" /&gt;
+
+&lt;p&gt;OnShape&lt;p&gt;
+
+&lt;img src="../data/image/W17-2.png" width="800" /&gt;
+
+
+&lt;p&gt;影片&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/198438045" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;&lt;a href="https://vimeo.com/user60053503"&gt;個人影片區&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p&gt;心得&lt;p&gt;
+
+今天是第十七次上課，終於到了最後的幾堂課了，很開心學到了OnShape跟Solvespace，雖然還不算是整個學會，但至少有了解到許多的操作跟一點點的概念，雖然不知道之後還會不會再遇到這個軟體，不過以備不時之需。下禮拜期末考，要好好加油了。</summary><category term="總整理"></category></entry><entry><title>Week 16</title><link href="./week-16.html" rel="alternate"></link><updated>2016-12-30T22:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2016-12-30:./week-16.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+
+
+&lt;p&gt;OnShape繪製Mechanism Tutorial&lt;p&gt;
+
+&lt;img src="../data/image/W16-1.png" width="800" /&gt;
+&lt;iframe src="./../data/image/W16-1.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
+
+&lt;p&gt;零件&lt;p&gt;
+
+&lt;img src="../data/image/W16-2.png" width="800" /&gt;
+&lt;iframe src="./../data/image/W16-2.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
+
+&lt;img src="../data/image/W16-3.png" width="800" /&gt;
+&lt;iframe src="./../data/image/W16-3.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
+
+&lt;img src="../data/image/W16-4.png" width="800" /&gt;
+&lt;iframe src="./../data/image/W16-4.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
+
+&lt;img src="../data/image/W16-5.png" width="800" /&gt;
+&lt;iframe src="./../data/image/W16-5.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
+
+&lt;img src="../data/image/W16-6.png" width="800" /&gt;
+&lt;iframe src="./../data/image/W16-6.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
+
+&lt;img src="../data/image/W16-7.png" width="800" /&gt;
+&lt;iframe src="./../data/image/W16-7.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
+
+&lt;img src="../data/image/W16-8.png" width="800" /&gt;
+&lt;iframe src="./../data/image/W16-8.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
+
+&lt;img src="../data/image/W16-9.png" width="800" /&gt;
+&lt;iframe src="./../data/image/W16-9.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;影片&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/198434975" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;&lt;a href="https://vimeo.com/user60053503"&gt;個人影片區&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p&gt;心得&lt;p&gt;
+
+今天第十六次上課，又回到OnShape了，這次上課因為是元旦前一天.，所以蠻多人沒來上課，跑去跨年，剩沒幾個人留下來畫圖，看來又是個好機會了。</summary><category term="OnShape(2)"></category></entry><entry><title>Week 15</title><link href="./week-15.html" rel="alternate"></link><updated>2016-12-23T22:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2016-12-23:./week-15.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+
+
+&lt;p&gt;3D印表機 ，並模擬它的運動軌跡。&lt;p&gt;
+
+&lt;img src="../data/image/W15-1.png" width="800" /&gt;
+&lt;iframe src="./../data/image/W15-1.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
+
+
+
+
+
+
+&lt;img src="../data/image/W15-2.png" width="800" /&gt;
+
+
+&lt;p&gt;影片&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/198431435" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;&lt;a href="https://vimeo.com/user60053503"&gt;個人影片區&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;心得&lt;p&gt;
+
+今天第十五次上課，講的是大家比較熟悉的東西了，這個3D印表機是個趨勢，希望我可以好好學起來。</summary><category term="3D印表機"></category></entry><entry><title>Week 14</title><link href="./week-14.html" rel="alternate"></link><updated>2016-12-16T22:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2016-12-16:./week-14.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+
+
+&lt;p&gt;用SolveSpace把檔案存成html檔,並且更改成http設定,利用嵌入網頁的指令,把html檔案放進網誌裡面&lt;p&gt;
+
+&lt;iframe src="./../data/image/W14-1.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
+&lt;iframe src="./../data/image/W14-2.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
+&lt;iframe src="./../data/image/W14-3.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;影片&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/198374358" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://vimeo.com/user60053503"&gt;個人影片區&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;p&gt;心得&lt;p&gt;
+
+今天第十四次上課，上禮拜教的OnShape還沒弄熟，這次又回來到比較熟悉的Solvespace了，不過好像蠻多人都沒來的樣子，我要好好加油了。</summary><category term="Solvespace(3)"></category></entry><entry><title>Week 13</title><link href="./week-13.html" rel="alternate"></link><updated>2016-12-09T22:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2016-12-09:./week-13.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+
+
+&lt;p&gt;利用OnShape練習繪製零件。&lt;p&gt;
+
+&lt;img src="../data/image/W13-1.png" width="800" /&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img src="../data/image/W13-2.png" width="800" /&gt;
+
+
+&lt;p&gt;影片&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/198373370" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;&lt;a href="https://vimeo.com/user60053503"&gt;個人影片區&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p&gt;心得&lt;p&gt;
+
+今天第十三次上課，又交一個新的軟體OnShape，辦會員的時候很好玩，我還把名字取的很好笑，不過雖然這個軟體可以中文化，但是老師叫我們練習英文，所以用英文版的，慢慢練習囉!</summary><category term="OnShape(1)"></category></entry><entry><title>Week 12</title><link href="./week-12.html" rel="alternate"></link><updated>2016-12-02T22:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2016-12-02:./week-12.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+
+
+&lt;p&gt;利用SOLVESPACE練習繪製COLLEGE_STUDENT_PRIMER_CREO_2.PDF裡的零件並學習如何組立。&lt;p&gt;
+
+&lt;img src="../data/image/W12-1.png" width="800" /&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img src="../data/image/W12-2.png" width="800" /&gt;
+
+
+
+&lt;img src="../data/image/W12-3.png" width="800" /&gt;
+
+
+
+&lt;p&gt;影片&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/198372038" width="640" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;&lt;a href="https://vimeo.com/user60053503"&gt;個人影片區&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p&gt;心得&lt;p&gt;
+
+今天第十二次上課，要畫第二張圖，還不是很習慣用這個軟體，但是還是有它好用的地方，希望之後可以好好練習，弄熟這套不錯的軟體。</summary><category term="Solvespace(2)"></category></entry><entry><title>Week 11</title><link href="./week-11.html" rel="alternate"></link><updated>2016-11-25T22:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2016-11-25:./week-11.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+
+
+&lt;p&gt;虎科大36週年校慶，剛好沒上課，來去看運動吧!&lt;/p&gt;</summary><category term="虎尾科技大學36週年校慶"></category></entry><entry><title>Week 10</title><link href="./week-10.html" rel="alternate"></link><updated>2016-11-18T22:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2016-11-18:./week-10.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+
+
+&lt;p&gt;有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證&lt;p&gt;
+
+&lt;p&gt;路徑圖&lt;/p&gt;
+
+&lt;img src="../data/image/W10-1.png" width="800" /&gt;
+
+
+&lt;p&gt;將所得到的點座標 .csv 以 Excel 畫圖。路徑圖&lt;/p&gt;
+
+&lt;img src="../data/image/W10-2.png" width="800" /&gt;
+
+
+
+
+&lt;p&gt;影片&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/198369023" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+
+&lt;p&gt;&lt;a href="https://vimeo.com/user60053503"&gt;個人影片區&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p&gt;心得&lt;p&gt;
+
+期中考剛考完，放送了一下，又繼續開始上課了，今天是第十次上課，這次上課開始教畫圖，這次教的是Solvespace，因為大部分都是英文，剛好可以藉此練習英文 。我這次做的時候也出現了許多問題，一開始有問題要快點解決，不然會牽連到之後，慶幸的是有些同學可以教我，讓我學得比較輕鬆一點，不過我們經過討論才知道大家還是有彼此不熟得地方，希望可以藉由之後的上課，一一克服。</summary><category term="Solvespace"></category></entry><entry><title>第九週</title><link href="./di-jiu-zhou.html" rel="alternate"></link><updated>2016-11-11T22:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2016-11-11:./di-jiu-zhou.html</id><summary type="html">&lt;p&gt;期中考週&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第八週</title><link href="./di-ba-zhou.html" rel="alternate"></link><updated>2016-11-04T22:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2016-11-04:./di-ba-zhou.html</id><summary type="html">&lt;p&gt;使用Trace Point計算路徑&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第七週</title><link href="./di-qi-zhou.html" rel="alternate"></link><updated>2016-10-28T22:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2016-10-28:./di-qi-zhou.html</id><summary type="html">&lt;p&gt;使用Trace Point計算路徑&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第六週</title><link href="./di-liu-zhou.html" rel="alternate"></link><updated>2016-10-21T22:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2016-10-21:./di-liu-zhou.html</id><summary type="html">&lt;p&gt;感覺還不錯&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第五週</title><link href="./di-wu-zhou.html" rel="alternate"></link><updated>2016-10-14T22:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2016-10-14:./di-wu-zhou.html</id><summary type="html">&lt;p&gt;##認識SolveSpace&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第四週</title><link href="./di-si-zhou.html" rel="alternate"></link><updated>2016-10-07T22:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2016-10-07:./di-si-zhou.html</id><summary type="html">&lt;p&gt;1: 設定使用者資料&lt;/p&gt;
+&lt;p&gt;2: 組長用2016fallcadp_bg11的名稱建立小組倉儲並邀組員進入小組倉儲&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第三週</title><link href="./di-san-zhou.html" rel="alternate"></link><updated>2016-09-30T22:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2016-09-30:./di-san-zhou.html</id><summary type="html">&lt;p&gt;1:複製網誌和簡報的設定檔2016fallcadp_hw的倉儲&lt;/p&gt;
+&lt;p&gt;2:更改2016fallcadp_hw的README.md檔案&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第二週</title><link href="./di-er-zhou.html" rel="alternate"></link><updated>2016-09-23T22:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2016-09-23:./di-er-zhou.html</id><summary type="html">&lt;p&gt;1: 建立"學號.github.io"名稱的倉儲&lt;/p&gt;
 &lt;p&gt;2: 把分支的預設值改為gh-pages&lt;/p&gt;
-&lt;p&gt;3: 建立"2016fallcpb_hw"作業倉儲&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第一週</title><link href="./di-yi-zhou.html" rel="alternate"></link><published>2016-09-16T22:00:00+08:00</published><updated>2016-09-16T22:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2016-09-16:./di-yi-zhou.html</id><summary type="html">&lt;p&gt;切換分支&lt;/p&gt;
+&lt;p&gt;3: 建立"2016fallcpb_hw"作業倉儲&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第一週</title><link href="./di-yi-zhou.html" rel="alternate"></link><updated>2016-09-16T22:00:00+08:00</updated><author><name>40423249</name></author><id>tag:,2016-09-16:./di-yi-zhou.html</id><summary type="html">&lt;p&gt;切換分支&lt;/p&gt;
 
 &lt;pre&gt;cd &lt;u&gt;tmp&lt;/u&gt;&lt;/pre&gt;
 
@@ -81,7 +313,7 @@ Nutcracker 零組件範例&lt;/p&gt;
 
 &lt;p&gt;推送進端資料到遠端&lt;/p&gt;
 
-&lt;pre&gt;git push origin &lt;u&gt;分支名稱&lt;/u&gt;&lt;/pre&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>2016Fall 簡報與網誌系統</title><link href="./2016fall-jian-bao-yu-wang-zhi-xi-tong.html" rel="alternate"></link><published>2016-09-02T12:00:00+08:00</published><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fall-jian-bao-yu-wang-zhi-xi-tong.html</id><summary type="html">&lt;p&gt;這個系統共集結了 reveal.js 網際簡報與 pelican 靜態網誌系統.&lt;/p&gt;
+&lt;pre&gt;git push origin &lt;u&gt;分支名稱&lt;/u&gt;&lt;/pre&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>2016Fall 簡報與網誌系統</title><link href="./2016fall-jian-bao-yu-wang-zhi-xi-tong.html" rel="alternate"></link><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fall-jian-bao-yu-wang-zhi-xi-tong.html</id><summary type="html">&lt;p&gt;這個系統共集結了 reveal.js 網際簡報與 pelican 靜態網誌系統.&lt;/p&gt;
 
 
 &lt;p&gt;網誌 Category&lt;/p&gt;
